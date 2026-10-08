@@ -1,7 +1,7 @@
 {
   "name": "tikita-creator",
   "displayName": "Tikita",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Create and refine private Tikita interactive story drafts with Claude.",
   "author": {
     "name": "Humelo Inc.",
