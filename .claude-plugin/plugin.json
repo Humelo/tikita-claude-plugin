@@ -1,0 +1,13 @@
+{
+  "name": "tikita-creator",
+  "displayName": "Tikita",
+  "version": "1.0.0",
+  "description": "Create and refine private Tikita interactive story drafts with Claude.",
+  "author": {
+    "name": "Humelo Inc.",
+    "url": "https://tikita.ai"
+  },
+  "homepage": "https://tikita.ai",
+  "privacyPolicyUrl": "https://tikita.ai/ko/privacy",
+  "repository": "https://github.com/Humelo/tikita-claude-plugin"
+}
